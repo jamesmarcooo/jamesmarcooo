@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Marco, @jamesmarcooo.
 - 👀 I’m interested in playing sports!
-- 🌱 I’m currently learning Full-stack Engineering and Machine Learning.
+- 🌱 I’m currently studing BS Computer Engineering and trying to pursue Full-stack Engineering and Machine Learning Engineering.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 You can reach me in james.marco.reyes@eee.upd.edu.ph or reyes.jamesmarco@gmail.com
 

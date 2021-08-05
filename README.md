@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full-stack Engineering and Machine Learning Engineering.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 You can reach me in: 
--              Email: james.marco.reyes@eee.upd.edu.ph or reyes.jamesmarco@gmail.com 
+-              Email: james.marco.reyes@eee.upd.edu.ph or reyesjamesmarco03@gmail.com 
 -              Linkedin: www.linkedin.com/in/jamesmarcoreyes/
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Marco, @jamesmarcooo.
 - 📚 Studying BS Computer Engineering in University of the Philippines Diliman.
 - 👀 I’m interested in playing sports!
-- 🌱 I’m currently learning Full-stack Engineering and Machine Learning Engineering.
+- 🌱 I’m currently learning Full-stack Engineering and DevOps.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 You can reach me in: 
 -              Email: james.marco.reyes@eee.upd.edu.ph or reyesjamesmarco03@gmail.com 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Marco, @jamesmarcooo.
-- 📚 Studying BS Computer Engineering in University of the Philippines Diliman.
+- 📚 Graduated BS Computer Engineering in University of the Philippines Diliman.
 - 👀 I’m interested in playing sports!
 - 🌱 I’m currently learning Full-stack Engineering and DevOps.
 - 💞️ I’m looking to collaborate on web development.

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m James Marco, @jamesmarcooo.
+- 👨🏻‍💻 Working as a fullstack developer specializing in backend development (Python, Django, FastAPI, SQL)
 - 📚 Graduated BS Computer Engineering in University of the Philippines Diliman.
 - 👀 I’m interested in playing sports!
-- 🌱 I’m currently learning Full-stack Engineering and DevOps.
-- 💞️ I’m looking to collaborate on web development.
+- 🌱 I’m currently learning AI Engineering, Agentic Engineering and DevOps.
 - 📫 You can reach me in: 
 -              Email: reyesjamesmarco03@gmail.com 
 -              Linkedin: www.linkedin.com/in/jamesmarcoreyes/
